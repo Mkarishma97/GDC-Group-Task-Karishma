@@ -1,0 +1,52 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+*.sqlite3
+
+# ===== Environment Files =====
+.env
+.venv/
+env/
+venv/
+ENV/
+Pipfile
+Pipfile.lock
+
+# ===== VS Code / IDE Files =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== Playwright / Browser Files =====
+playwright/.cache/
+playwright-report/
+test-results/
+screenshots/
+
+# ===== OS / System Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Data / Output Files =====
+data/logs/
+data/temp/
+*.json
+!data/sample_output.json  # keep sample output file in repo
+*.csv
+
+# ===== ZIP and PDF Files =====
+*.zip
+*.pdf
+
+# ===== Jupyter or Temporary Notebooks =====
+*.ipynb_checkpoints/
+
+# ===== Misc =====
+*.retry
