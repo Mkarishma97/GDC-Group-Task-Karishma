@@ -1,0 +1,690 @@
+[
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMzEy",
+        "home_team": "Hornets",
+        "away_team": "Jazz",
+        "start_time": "2025-11-02 23:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5MDU2",
+        "home_team": "Nets",
+        "away_team": "76ers",
+        "start_time": "2025-11-02 23:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMTY0",
+        "home_team": "Pacers",
+        "away_team": "Bucks",
+        "start_time": "2025-11-04 00:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMzQ2",
+        "home_team": "Clippers",
+        "away_team": "Heat",
+        "start_time": "2025-11-04 03:30:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNDI4",
+        "home_team": "Knicks",
+        "away_team": "Wizards",
+        "start_time": "2025-11-04 00:30:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5OTU4",
+        "home_team": "Suns",
+        "away_team": "Spurs",
+        "start_time": "2025-11-03 01:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMTk3",
+        "home_team": "Knicks",
+        "away_team": "Bulls",
+        "start_time": "2025-11-03 00:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMjUz",
+        "home_team": "Nuggets",
+        "away_team": "Kings",
+        "start_time": "2025-11-04 02:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNjYz",
+        "home_team": "Rockets",
+        "away_team": "Mavericks",
+        "start_time": "2025-11-04 01:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNzMw",
+        "home_team": "Grizzlies",
+        "away_team": "Pistons",
+        "start_time": "2025-11-04 01:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMzE5",
+        "home_team": "Hawks",
+        "away_team": "Magic",
+        "start_time": "2025-11-05 01:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNDU4",
+        "home_team": "Warriors",
+        "away_team": "Suns",
+        "start_time": "2025-11-05 03:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMDky",
+        "home_team": "Cavaliers",
+        "away_team": "Hawks",
+        "start_time": "2025-11-02 23:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMjA3",
+        "home_team": "Nets",
+        "away_team": "Timberwolves",
+        "start_time": "2025-11-04 00:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMjgz",
+        "home_team": "Trail Blazers",
+        "away_team": "Lakers",
+        "start_time": "2025-11-04 03:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNjkz",
+        "home_team": "Celtics",
+        "away_team": "Jazz",
+        "start_time": "2025-11-04 00:30:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5OTg5",
+        "home_team": "Lakers",
+        "away_team": "Heat",
+        "start_time": "2025-11-03 02:30:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMTY2",
+        "home_team": "Raptors",
+        "away_team": "Grizzlies",
+        "start_time": "2025-11-02 23:00:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5ODUy",
+        "home_team": "Thunder",
+        "away_team": "Pelicans",
+        "start_time": "2025-11-02 20:30:00+00:00",
+        "league": "NBA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI1MDYx",
+        "home_team": "Bengals",
+        "away_team": "Bears",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTIxNTI0",
+        "home_team": "Lions",
+        "away_team": "Vikings",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI1MjQw",
+        "home_team": "Rams",
+        "away_team": "Saints",
+        "start_time": "2025-11-02 21:05:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5MTcw",
+        "home_team": "Jets",
+        "away_team": "Browns",
+        "start_time": "2025-11-09 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI1NTAy",
+        "home_team": "Texans",
+        "away_team": "Broncos",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI2MzM4",
+        "home_team": "Packers",
+        "away_team": "Panthers",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI1NDI2",
+        "home_team": "Cowboys",
+        "away_team": "Cardinals",
+        "start_time": "2025-11-04 01:15:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI2MTg3",
+        "home_team": "Steelers",
+        "away_team": "Colts",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI0OTg3",
+        "home_team": "Giants",
+        "away_team": "49ers",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI0OTEx",
+        "home_team": "Patriots",
+        "away_team": "Falcons",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI3MDcw",
+        "home_team": "Bills",
+        "away_team": "Chiefs",
+        "start_time": "2025-11-02 21:25:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI3MTQ3",
+        "home_team": "Commanders",
+        "away_team": "Seahawks",
+        "start_time": "2025-11-03 01:20:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTIwODU4",
+        "home_team": "Raiders",
+        "away_team": "Jaguars",
+        "start_time": "2025-11-02 21:05:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI1MzQ5",
+        "home_team": "Titans",
+        "away_team": "Chargers",
+        "start_time": "2025-11-02 18:00:00+00:00",
+        "league": "NFL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNDYy",
+        "home_team": "Ducks",
+        "away_team": "Panthers",
+        "start_time": "2025-11-05 03:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNDI0",
+        "home_team": "Stars",
+        "away_team": "Oilers",
+        "start_time": "2025-11-05 01:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5MDg2",
+        "home_team": "Mammoth",
+        "away_team": "Lightning",
+        "start_time": "2025-11-02 20:30:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5NDM0",
+        "home_team": "Flyers",
+        "away_team": "Flames",
+        "start_time": "2025-11-03 00:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5NTEw",
+        "home_team": "Sharks",
+        "away_team": "Red Wings",
+        "start_time": "2025-11-03 01:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMzg2",
+        "home_team": "Wild",
+        "away_team": "Predators",
+        "start_time": "2025-11-05 01:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNTM4",
+        "home_team": "Canadiens",
+        "away_team": "Flyers",
+        "start_time": "2025-11-05 00:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNjI1",
+        "home_team": "Maple Leafs",
+        "away_team": "Mammoth",
+        "start_time": "2025-11-06 00:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNjUy",
+        "home_team": "Islanders",
+        "away_team": "Bruins",
+        "start_time": "2025-11-05 00:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5Nzc2",
+        "home_team": "Kraken",
+        "away_team": "Blackhawks",
+        "start_time": "2025-11-04 03:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5NTQ4",
+        "home_team": "Ducks",
+        "away_team": "Devils",
+        "start_time": "2025-11-03 01:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5NzAw",
+        "home_team": "Maple Leafs",
+        "away_team": "Penguins",
+        "start_time": "2025-11-04 00:30:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5ODE0",
+        "home_team": "Blues",
+        "away_team": "Oilers",
+        "start_time": "2025-11-04 01:30:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNjE0",
+        "home_team": "Sabres",
+        "away_team": "Mammoth",
+        "start_time": "2025-11-05 00:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNzI4",
+        "home_team": "Avalanche",
+        "away_team": "Lightning",
+        "start_time": "2025-11-05 02:30:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5NzM4",
+        "home_team": "Predators",
+        "away_team": "Canucks",
+        "start_time": "2025-11-04 01:30:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNTc2",
+        "home_team": "Rangers",
+        "away_team": "Hurricanes",
+        "start_time": "2025-11-05 00:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNTAw",
+        "home_team": "Kings",
+        "away_team": "Jets",
+        "start_time": "2025-11-05 03:30:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwNjkw",
+        "home_team": "Golden Knights",
+        "away_team": "Red Wings",
+        "start_time": "2025-11-05 03:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5NDcy",
+        "home_team": "Islanders",
+        "away_team": "Blue Jackets",
+        "start_time": "2025-11-02 22:00:00+00:00",
+        "league": "NHL",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMDYy",
+        "home_team": "Hurricanes",
+        "away_team": "Orange",
+        "start_time": "2025-11-08 20:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNzY0",
+        "home_team": "Trojans",
+        "away_team": "Wildcats",
+        "start_time": "2025-11-08 02:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI2NjE2",
+        "home_team": "Mountaineers",
+        "away_team": "Eagles",
+        "start_time": "2025-11-07 00:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMTA2",
+        "home_team": "Eagles",
+        "away_team": "Mustangs",
+        "start_time": "2025-11-08 17:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxODA3",
+        "home_team": "Nittany Lions",
+        "away_team": "Hoosiers",
+        "start_time": "2025-11-08 17:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMjM4",
+        "home_team": "Scarlet Knights",
+        "away_team": "Terrapins",
+        "start_time": "2025-11-08 19:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxOTk4",
+        "home_team": "Bulldogs",
+        "away_team": "Bulldogs",
+        "start_time": "2025-11-08 17:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI0MDg1",
+        "home_team": "Bobcats",
+        "away_team": "RedHawks",
+        "start_time": "2025-11-05 00:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMyMDc4",
+        "home_team": "Wildcats",
+        "away_team": "Jayhawks",
+        "start_time": "2025-11-08 20:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMyMTY3",
+        "home_team": "Cavaliers",
+        "away_team": "Demon Deacons",
+        "start_time": "2025-11-09 00:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMzQ5",
+        "home_team": "Boilermakers",
+        "away_team": "Buckeyes",
+        "start_time": "2025-11-08 18:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxODQ3",
+        "home_team": "Hawkeyes",
+        "away_team": "Ducks",
+        "start_time": "2025-11-08 20:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI4MjIz",
+        "home_team": "Tigers",
+        "away_team": "Aggies",
+        "start_time": "2025-11-08 20:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxOTM0",
+        "home_team": "Badgers",
+        "away_team": "Huskies",
+        "start_time": "2025-11-08 21:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5MTI0",
+        "home_team": "Crimson Tide",
+        "away_team": "Tigers",
+        "start_time": "2025-11-09 00:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMjc2",
+        "home_team": "Red Raiders",
+        "away_team": "Cougars",
+        "start_time": "2025-11-08 17:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwOTIw",
+        "home_team": "Huskies",
+        "away_team": "Blue Devils",
+        "start_time": "2025-11-08 20:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI2NDc0",
+        "home_team": "Rockets",
+        "away_team": "Huskies",
+        "start_time": "2025-11-06 00:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNDkx",
+        "home_team": "Tigers",
+        "away_team": "Seminoles",
+        "start_time": "2025-11-09 00:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMyMTIz",
+        "home_team": "Cardinals",
+        "away_team": "Golden Bears",
+        "start_time": "2025-11-09 00:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwODc2",
+        "home_team": "Knights",
+        "away_team": "Cougars",
+        "start_time": "2025-11-08 01:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNTM3",
+        "home_team": "Beavers",
+        "away_team": "Bearkats",
+        "start_time": "2025-11-09 03:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI0MDM4",
+        "home_team": "Zips",
+        "away_team": "Minutemen",
+        "start_time": "2025-11-05 00:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxODkx",
+        "home_team": "Bruins",
+        "away_team": "Cornhuskers",
+        "start_time": "2025-11-09 02:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMzg3",
+        "home_team": "Mountaineers",
+        "away_team": "Buffaloes",
+        "start_time": "2025-11-08 17:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI5OTEw",
+        "home_team": "Bulls",
+        "away_team": "Roadrunners",
+        "start_time": "2025-11-07 00:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwODEz",
+        "home_team": "Horned Frogs",
+        "away_team": "Cyclones",
+        "start_time": "2025-11-08 20:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwMTIx",
+        "home_team": "Tigers",
+        "away_team": "Green Wave",
+        "start_time": "2025-11-08 02:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxNTgy",
+        "home_team": "Commodores",
+        "away_team": "Tigers",
+        "start_time": "2025-11-08 21:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMyMDQw",
+        "home_team": "Wildcats",
+        "away_team": "Gators",
+        "start_time": "2025-11-09 00:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMwOTc1",
+        "home_team": "Fighting Irish",
+        "away_team": "Midshipmen",
+        "start_time": "2025-11-09 00:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTI2NDIw",
+        "home_team": "Cardinals",
+        "away_team": "Golden Flashes",
+        "start_time": "2025-11-06 00:00:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    },
+    {
+        "id": "Z2lkOi8vaHMzL0dhbWUvMTMxMDE3",
+        "home_team": "Tar Heels",
+        "away_team": "Cardinal",
+        "start_time": "2025-11-08 21:30:00+00:00",
+        "league": "NCAA",
+        "odds": []
+    }
+]

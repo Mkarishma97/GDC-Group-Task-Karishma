@@ -1,0 +1,14 @@
+# Configuration for HotStreak Scraper
+
+scraper:
+  sports: ["NBA", "NFL", "MLB"]
+  base_url: "https://api3.hotstreak.gg/graphql"
+  wait_time_ms: 8000
+  headless: true
+
+logging:
+  log_file: "data/logs/scraper.log"
+  level: "INFO"
+
+output:
+  json_path: "data/sample_output.json"
